@@ -7,6 +7,7 @@ Este proyecto tiene como objetivo centralizar y visualizar información clave de
 
 ## 📁 Estructura del Proyecto
 
+## Monitotoreo de personal.xlsx
 - **Hoja `Data`:** Base de datos principal con 425 registros.
 - **Hoja `Calculos`:** Fórmulas intermedias y consolidación de métricas.
 - **Hoja `Dashboard`:** Visualización final de KPIs y gráficos interactivos.
@@ -62,7 +63,8 @@ El dashboard permite filtrar y analizar los datos por:
 - **Área:** (Administración, Comunicaciones, Bioquímica, Resultados)
 - **Año:** (2016–2019)
 - **Mes:** (Enero a Diciembre)
-- 
+  
+## Dasboard 
 ![image](https://github.com/user-attachments/assets/b44e7711-4abe-4c74-b9c9-ed083f02ccb7)
 
 ---
